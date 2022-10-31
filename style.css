@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(45, 92, 124);
+}
+.text-primary{
+    text-align: center;
+    padding: 20px 20px;
+    color: rgb(21, 13, 108);
+}
+.card-body{
+    background-color: antiquewhite;
+    padding: 20px 20px;
+    margin:  20pt 20pt;
+    align-items: center;
+    text-align: center;
+}
+.h3{
+color: green;
+
+}
+.h4{
+color: green;
+}
